@@ -1,0 +1,11 @@
+{{#*inline "page"}}
+  <h2>New</h2>
+    <form action="/new" method="post">
+      <label for="title">Content</label>
+      <br>
+      <textarea name="content" id="content" required></textarea>
+      <br>
+      <button>Add</button>
+    </form>
+{{/inline}}
+{{~> (parent)~}}

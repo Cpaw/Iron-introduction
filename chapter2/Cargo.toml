@@ -1,0 +1,18 @@
+[package]
+name = "web_introduction"
+version = "0.1.0"
+authors = ["Chihiro Hasegawa <pgm3rdlinuxor1000@gmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+handlebars = "*"
+handlebars-iron = "*"
+staticfile = "*"
+mount = "*"
+rusqlite = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+params = "*"
+

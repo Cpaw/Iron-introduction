@@ -1,0 +1,8 @@
+{{#*inline "page"}}
+<h2>Memo list</h2>
+{{#each memo}}
+  <p> {{id}}: {{content}}</p>
+{{/each}}
+<a href="/new">New</a>
+{{/inline}}
+{{~> (parent)~}}
