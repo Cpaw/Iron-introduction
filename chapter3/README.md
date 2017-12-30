@@ -4,8 +4,8 @@
 データベースにSQLite3を使用しているので，インストール済みではない場合は，```$ ./setup.sh```でその旨が表示されますので，インストールしてください．
 
 ```
-$ git clone https://github.com/Cpaw/web_introduction
-$ cd web_introduction
+$ git clone https://github.com/Cpaw/Iron_introduction
+$ cd Iron_introduction/chapter3
 $ chmod u+x setup.sh
 $ ./setup.sh
 $ cargo run
