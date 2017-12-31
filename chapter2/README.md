@@ -13,5 +13,6 @@ $ cargo run
 
 上記コマンドを入力後，しばらくするとブラウザで```localhost:3000```にアクセスするとサンプルアプリケーションが稼働しています．
 
+Author: [chihiro](https://twitter.com/encry1024), [u+](https://twitter.com/uplus_e10)
 
 
